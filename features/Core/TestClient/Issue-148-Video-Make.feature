@@ -2,7 +2,10 @@
 
 @IgnoreOn82Builds
 @IgnoreOnOFBuilds
-
+@IgnoreOn836
+@IgnoreOn837
+@IgnoreOn838
+@Video
 
 
 Функционал: Проверка формирования файла видео
